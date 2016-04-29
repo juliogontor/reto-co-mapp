@@ -46,7 +46,7 @@ http://linkedin.com/in/jdeltoro1973
 
 ### Julio César González Torres
 
-Experto en el manejo de bases de datos, incluyendo sistemas de Oracle y SQL, desarrollador de software, web y aplicaciones GIS. Coordinador de tecnologías de la información, soporte de redes, comunicaciones y computo. Tiene experiencia en la visualización de información georeferenciada. Trabajó en un proyecto de la automatización para la generación de layout, registro y consulta de capas de mapas.
+Experto en el manejo de bases de datos espaciales y desarrollo de aplicaciones GIS. Coordinador de tecnologías de la información y Geo Developer. Tiene experiencia en la visualización de información georeferenciada e implementación de Infraestructura de Datos Espaciales y Geodatabases Multi-finalitarias para gobiernos municipales y estatales.
 
 https://github.com/juliogontor
 
